@@ -1,0 +1,4 @@
+namespace Coin-Combinations.Models
+{
+  
+}
